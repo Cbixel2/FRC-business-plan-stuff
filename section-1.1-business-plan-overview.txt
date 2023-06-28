@@ -1,0 +1,477 @@
+﻿FIRST® Fundraising Toolkit Section 1.2 - Business Plan Overview 
+The FIRST® Business Plan Overview has been created to help teams walk through the process of creating a  Business Plan. 
+The first part of Section 1 in the FIRST Fundraising Toolkit, the Fundraising Plan, focuses on the specific parts of a  Business Plan that would help a team organize their fundraising and Sponsor recruitment efforts. Adding to the  Fundraising Plan and creating a full team Business Plan gives the team a better understanding of their organization, leadership roles, and long-term goals.  
+When working on the Business Plan Overview, keep in mind that all teams are unique and there are many  different ways to create a business plan to reflect their culture, goals, and needs. Teams can use this document  as a guide or tool, and add or subtract the parts they need to organize their team. The document is not all  encompassing and examples used in the document come from 2012 and 2013 FRC Regional Entrepreneurship  Award winning teams. 
+The Sections in the Business Plan Overview include:  
+Section 
+	Page Numbers
+	Executive Summary 
+	3 – 7
+	Team Overview 
+	8 – 12
+	Team Management 
+	13 – 18
+	SWOT Analysis 
+	19
+	Team Impact/Outreach 
+	20
+	Future Plans 
+	21
+	Action/Implementation Plan 
+	22
+	Team Budget 
+	23 – 25
+	Sponsor Benefits 
+	26
+	Team Fundraising Opportunities 
+	27 - 28
+	Final Statement 
+	29
+	Team Contact Info 
+	30
+	
+
+
+
+Key-code to explain the colors of the Example Boxes:  
+∙ Information Needed in the Team Information Management System (TIMS): Orange ∙ Information that can be included in the Chairman’s Award: Purple 
+∙ Examples from Entrepreneurship Award Winning Teams: Blue 
+∙ Example of Formatting for a section: Green
+Page 1 of 30 
+Rev. 1, 10.02.13RB 
+(Front Cover) 
+(Team Name) 
+(FIRST® Team Number, High School) Business Plan  
+(Include a Team Picture & Personalize the Page)
+Page 2 of 30   
+Rev 1.0 – 10.02.13RB 
+EXECUTIVE SUMMARY 
+The Executive Summary is a first introduction to the team, their goals, and the benefits of their program. The  information included in the Executive Summary of the Business Plan is similar to the information needed in the Team Information Management System (TIMS). TIMS allows team leaders to manage team information such as  team name, location, student demographics, team motto, and team budget and much of this information  overlaps with information included in a team Business Plan.  
+Image from TIMS with Team Information: 
+  
+
+Page 3 of 30   
+Rev 1.0 – 10.02.13RB 
+Mission Statement:  
+A team mission statement can be a single sentence, an image, or a full page, but it should explain the purpose of  the team and what vision of the future the team is working towards. Active FIRST teams, should consider  incorporating the FIRST Mission Statement into a team mission statement to show they are supporting the  overall mission of the program. 
+Example Mission Statements:  
+“Our mission is to inspire young people to be science and technology leaders, by engaging them in exciting  Mentor-based programs that build science, engineering and technology skills, that inspire innovation, and  that foster well-rounded life capabilities including self-confidence, communication, and leadership.”  
+–FIRST® website (www.usfirst.org) 
+“To inspire peers to be more excited about science, engineering, and technology by engaging them in a  hands-on Mentor guided life-changing journey that prepares everyone for the future.”  
+–FRC Team 68, Truck Town Thunder 
+Date Team Began:  
+Including the date the team began shows those looking over the Executive Summary how old the team is. The  information can be as simple as stating the month and year the team started.  
+Team & Program Summary:  
+The team and program summary should contain a short paragraph about how the team was started, some basic  history, the number of students and Mentors currently on the team and from which schools. There should also  be a short paragraph that explains what the FIRST program is.  
+Example Team Summary: 
+“FIRST Team 68 was founded in 1998 by Tom Stevens, former Global Chief Technology Officer of General  Motors. Initially known as Truck Town Terror, the team began with 20 members from schools across Oakland  County and was housed at a General Motors facility in Pontiac, Michigan. At that time, there were only seven  Mentors, all of whom were either GM employees or parents of team members. However, the terrorist  attacks of 9/11 led the team to change its name to Truck Town Thunder (T3) in 2001. In 2009, the team  relocated to Brandon High School, which remains its current home.  
+Today, the team consists of 27 student members and a total of 31 Mentors. Members are students at  Brandon and Holly High Schools and mentors now include GM engineers, parents, college students, alumni,  and partner representatives. Nine of these Mentors are considered ‘advisory mentors’ because they are  responsible for creating and enforcing rules and regulations, team policies, and are also responsible for the  overall team organization.” 
+–FRC Team 68, Truck Town Thunder
+Page 4 of 30   
+Rev 1.0 – 10.02.13RB 
+Example Program Summary:  
+FIRST was founded in 1989 to inspire young people's interest and participation in science and technology.  FIRST designs accessible, innovative programs that motivate young people to pursue education and career  opportunities in science, technology, engineering, and math, while building self-confidence, knowledge, and  life skills.  
+The mission of FIRST is to inspire young people to be science and technology leaders, by engaging them in exciting Mentor-based programs that build science, engineering and technology skills, that inspire  innovation, and that foster well-rounded life capabilities including self-confidence, communication, and  leadership. 
+–FIRST® website (www.usfirst.org)
+Location of the Team and Current Team Sponsors:  
+Stating where a team is located and current team Sponsors identifies the community and businesses the team  represents. 
+Example Location of the Team and Current Team Sponsors:  
+Location: Macquarie University, Sydney, Australia 
+Sponsors: Macquarie University, Altium, BAE Systems, National Instruments, Google, Rockwell  Automation…”  
+– FRC Team 3132, Thunder Down Under 
+Team Impact/Outreach:  
+The Team Impact/Outreach section of the business plan focuses on how a team has impacted or helped the  local, state, national, or international community. STEM outreach is a key component in FIRST culture and is part  of a FIRST team’s identity. The section can include information about how the team supports other FIRST programs, volunteers at events, demonstrations the team takes part in, summer camps, or large community  projects the team is involved with. Highlighting the major areas the team gives back to the community shows  the impact the team has beyond the students and Mentors on the team.  
+Example of Team Impact/Outreach:  
+“In addition to financing our participation in the FIRST® Robotics Competition, Team 359 mentors over 10  Hawaii FRC teams, 1 FLL team, and 4 VEX teams, all of which we fully fund and coordinate. Our finances  also focus on sustaining other school programs through technical support, as well as hosting various  workshops for both community, state-wide, and national events to assist and impact other teams and  schools. Aside from funding, Team 359 coordinates and volunteers at numerous STEM, family-oriented,  and community service events year round. Our program has started the planning and implementation of  a community STEM Learning Center offering PCB Milling, 3D printing and Waterjet cutting services for  other interested participants, businesses, and programs as a self-sustaining mechanism to fund our  team.”  
+– FRC Team 359, Hawaiian Kids 
+Page 5 of 30   
+Rev 1.0 – 10.02.13RB 
+Relationships & Information Regarding Current Sponsors:  
+Every FIRST team should work to maintain and develop high quality relationships with team Sponsors. This can  help ensure team sustainability and generate consistent Sponsor funding from year to year. Explaining the  relationship between current Sponsors may help potential Sponsors recognize ways to sponsor the team beyond  financial support.  
+Example Relationships & Information Regarding Current Sponsors: 
+∙ Macquarie University – formed FIRST Australia with FIRST, low SES outreach, preferred entry for  FIRST students, course credit for mentoring FIRST 
+∙ BAE Systems – FLL teams, FTC mentoring, run FLL in South Australia 
+∙ Altium Systems – FLL team, and looking to help FIRST in China 
+∙ National Instruments – partnered to start FTC in Australia  
+– FRC Team 3132, Thunder Down Under
+Summary of Team Growth:  
+FIRST teams are continually growing and changing from year to year. The growth of the team from year to year  shows how the team is sustainable and the impact the team has made in their local community.  
+Example Summary of Team Growth:  
+“Moving to Brandon High School generated new growth in participation, increasing it from just 9 students to  21 students in 2009. The school began recognizing the team at school assemblies, which both spread the  word of FIRST and recruited new team members. The high quality shop and computer labs also provide a  comfortable, effective, and easily accessible environment to attract new students. Mentors were recruited  to help train students on the technology, which increased the number of mentors from 8 to 31. 
+As a result of these changes, the team has become infinitely more structured which has benefited the team’s  productivity and success. They also have more hands-on experience, actively learn more skills, and stay on  the team longer. Finally, the efficiency generated by these increases has allowed the team to dedicate more  time to community outreach projects.”  
+– FRC 68, Truck Town Thunder 
+Page 6 of 30   
+Rev 1.0 – 10.02.13RB 
+Summary of Future Team Plans:  
+Taking time to look towards the future of a FIRST team is important for building up team sustainability and  recognizing ways the team is working toward long-term goals. Focus on explaining plans for growth in the next  year in terms of recruiting students, finding sponsors, and expanding outreach efforts.  
+Example Summary of Future Team Plans:  
+“In addition to increasing in size and participating in various community service projects year round, Team  359 plans to continue its pursuit to further FIRST globally. Our team traveled to Japan several times in recent  years to visit schools, which we have been corresponding with, in regards to possibly starting FIRST teams  and participation in other robot competitions. Aside from the Pan Pacific, we will also continue to support  the efforts to have every high school in Hawaii with a robotics program. To assist in expanding our outreach  efforts, we are always looking to acquire larger corporate sponsorship and additional federally-funded  grants, and have the experience, formula, and ability to do so with considerable success.” 
+– FRC Team 359, Hawaiian Kids
+Page 7 of 30   
+Rev 1.0 – 10.02.13RB 
+TEAM OVERVIEW 
+The Team Overview is meant to give an in-depth explanation of the history of the team and the currently  involved students and Mentors currently involved. This section can highlight important awards the team has  won, large changes that have occurred within the team, or any challenges the team faced and how they  overcame those challenges. Highlighting specific data points about the students and Mentors on the team  through graphs or charts is a great resource to include in this section.  
+Team History:  
+Include a short team history in the business plan that highlights what the FIRST program is, how the team was  started, any challenges the team faced and how those were overcome, and important awards the team won.  The history included here gives a deeper understanding of FIRST, the team, and some of the important  milestones the team accomplished.  
+Example Team History:  
+“In May 2009, Thunder Down Under was formed by the Heimlich Family with the intention of competing in  the 2010 FRC season. The team was formed in Sydney, Australia, in cooperation with our Platinum Sponsors:  Macquarie University, BAE Systems, and Altium. In March 2010, the team made its debut at the FIRST  Robotics Competition BAE Systems Granite State Regional (GSR) in Manchester, NH. At the competition, 3132  managed to come away with GSR’s Rookie All-star award, Industrial Safety award, and even have its founding  Mentors, Mike and Luan Heimlich recognized as Volunteers of the Year. At the FIRST Championships in  Atlanta that year, 3132 was honored to have one of its founding members, Sarah Heimlich, be selected as  one of ten students on the inaugural Dean’s List.  
+In the 2011 season, at the Hawaii Regional, our team received the Chairman’s Award and Team Imagery  Award. At the Championship in St Louis in the same year, the team received a Judges Award. Our Sponsors  now include the New South Wales State Government, National Instruments, CSIRO, AmCham, Signwave,  Baxter Australia, and Kingdom Pins.” 
+– FRC Team 3132, Thunder Down Under
+Page 8 of 30   
+Rev 1.0 – 10.02.13RB 
+Student Team Members:  
+It is important to highlight the types of students involved with the team and the diversity of the team. In TIMS  there are questions specifically aimed towards information about the different grades the students are in and  their ethnicity that need to be answered. Since the information is needed in TIMS it makes it easy to expand on  the information in a team business plan. Student gender, grade, ethnicity, and economic standing are some of  the most important information that should be shown in this section. Other information that can be included  would be the interests of the students on the team (such as mechanical, programming, or marketing), the  number of team Alumni who have gone into STEM (science, technology, engineering, and math) fields or  graduated, and information about where the students are located (if they come from different schools). 
+Image from TIMS with Specific Student Information:
+  
+
+	
+
+
+
+Page 9 of 30   
+Rev 1.0 – 10.02.13RB 
+Example Student Team Members:  
+“The students of Truck Town Thunder represent a number of diverse backgrounds with students coming  from two different schools: Brandon High School (three students) and Holly High School (24 students).  This has brought together students from different communities and creates a melting pot of ethnicities,  ages, genders, talents, interests, and geographical locations. Through FIRST, these students learn to work  together as a single team, despite their differences. 
+Of particular importance are the changes in the team’s gender ratios. Figure 1 below shows how the  team constituency by gender has changed over time. As can be seen here, the proportion of girls on the  team has steadily increased over the past decade. Whereas only 6-7% of the team was female in 2004  and 2005, 2012, and 2013 have seen record breaking numbers with young women making up 48% and  41% of the team. In addition to increasing the overall diversity of Truck Town Thunder, the team also  aspires to maintain a more equal gender constituency into the future. 
+Another factor in maintaining an experienced student membership is the team’s replacement policy.  Each student is required to find at least one replacement member for the team. The students must teach  the new team member skills the graduating student has mastered. This has helped the new students in  adjusting to not only being a member on Truck Town Thunder but the intense work schedule many of the  team members endure throughout the year.”  
+– FRC Team 68, Truck Town Thunder
+  
+
+Page 10 of 30   
+Rev 1.0 – 10.02.13RB 
+Team Mentors:  
+It is important to clearly outline the Mentor resources are that are available to the team. Defining the skills the  Mentors bring to the team, such as technical or non-technical skills, helps a team discover the areas where they  may need more support. Teams can also identify parent Mentors, Mentors who represent team Sponsors and/or are team Alumni, as another way to show the impact of the program.  
+Example Team Mentors:  
+“Mentors currently outnumber student members which include GM employees, parents, college-aged team  Alumni, and Sponsor/partnership Mentors. Of the 31 Mentors currently working with the team, seven are  parents of current team members. Three of the seven parent Mentors are Science, Technology, Engineering,  and Mathematics (STEM) professionals and two are employed by General Motors. Three of the mentors are  T3 Alumni. They are currently attending college in the area and are majoring in STEM fields. Seven Mentors  are employed with one the team’s Sponsors, two teach at the Brandon High School, and the remaining are  non-engineering professionals in the community who volunteer their time working with the team. Nine  Mentors constitute the team’s advisory board, which is responsible for creating and enforcing program rules  and team policies, and overseeing the overall team organization.”  
+– FRC Team 68, Truck Town Thunder
+  
+
+Page 11 of 30   
+Rev 1.0 – 10.02.13RB 
+Team Sponsors:  
+Take time to highlight the Sponsors that help support the FIRST team and explain how the team interacts with  some of the key Sponsors. The team should state the number of current Sponsors and highlight any unique or  creative ways the team maintains Sponsor relationships. 
+Example of Team Sponsors:  
+
+	
+
+
+
+– FRC Team 4403, ROULT 
+Note: List of Team Sponsors is shortened for this example.
+Page 12 of 30 
+Rev 1.0 – 10.02.13RB 
+TEAM MANAGEMENT 
+The team management section of the Business Plan includes a description of the team structure, the  organization of the team and the roles and responsibilities of the positions on the team.  
+Team Membership:  
+Student member expectations and the process for joining the team should be clearly defined. This helps  establish a reliable process to populate a team. 
+Example Team Membership:  
+“Membership on Truck Town Thunder is a year-round commitment. The team strives to prepare all new  team members and parents of the obligations required of T3 members. If the students are still interested in  joining the team, the process begins by obtaining an application on-line. The application requires three  recommendations: 1 each from a teacher, non-family member, and parent. The next step is the interview  process. 
+The interview process begins with students meeting with the advisory board to discuss team objectives and  requirements and allow the student to ask questions. The parents are then brought in for the second part of  the interview. The parent is explained team objectives and requirements with their child present. Upon  acceptance to the team, student and parents are invited to attend the team’s first meeting of the year. At  this meeting students and parents have an opportunity to meet all of the Mentors, team members, and  parents.” 
+– FRC Team 68, Truck Town Thunder
+Team Structure:  
+It is important to a team’s sustainability to explain how the team is run, explain team expectations and what  roles are necessary. Including a diagram of the team structure makes it easy to see how the team is organized.  
+Many successful teams have modeled themselves after companies and have directors or captains of specific sub teams (such as Safety, Marketing or Programming), which makes it easier to organize the team. Depending  upon the age of the team and the number of students and Mentors, a team structure can look very different  from team to team.  
+Page 13 of 30 
+Rev 1.0 – 10.02.13RB 
+Example Team Structure Diagram:  
+
+– FRC 68, Truck Town Thunder 
+Note: All teams have different team structures, for example with some teams a “Team Leader” could  also be referred to as a “Team Coach”. 
+Example Team Structure Overview:  
+“T3 is led by a STEM teacher and shop teacher from Brandon High School. The team leader is supported  by eight senior advisors, comprised of engineers, teachers, and business leaders. Additional leadership is  provided by 22 Mentors, made up of parents, interested professionals, and three college student team  Alumni. The students elect a team Captain that will be the go-between for student members and all  Mentors. 
+The team is reshuffled several times during a season. The season starts out with team building and new  students learning their way around the Truck Town workspace.  
+In October, Robot 101 training is started where new and returning students are exposed to the basic  skills in all the following areas: robot build, CAD design, scouting, animation, safety, business  responsibilities, and Chairman’s Award. After the basic training students are provided the opportunity to  apply for one of the 16 sub-team leadership roles during the build season. These students work directly  with Mentors and students to make sure deadlines are being met and problems that arise are brought to  the attention of Mentors, and the advisory board if needed.  
+Students interested in applying for a sub-leader position must submit a resume and follow-up with an  interview with the advisory board. The students sign a Duties and Responsibilities Agreement stating  they understand the commitment involved with this position. After the sub- leaders are selected,  students are given the opportunity to choose a work group from the Technical Structure and the  Managerial Structure. T3 feels students should have an opportunity to experience as many operations of  a business as they are able to fit in during a season. The team Captain works with the two structures to  make sure deadlines are being met and team members are accomplishing their groups’ responsibilities.”  
+– FRC 68, Truck Town Thunder
+Page 14 of 30 
+Rev 1.0 – 10.02.13RB 
+Example Sub-Team Structure Breakdown Diagram (Managerial):  
+  
+Example Sub-Team Structure Descriptions (Managerial):  
+Entrepreneurship  
+The entrepreneurship group gathers information that is needed for a weekly blog post. Then the group  organizes the information to give to the Media group. Sometimes, the group has to find Sponsors for the  team and write them thank-you notes. The group organizes events to get publicity. For example, the  group organizes a science fair for the elementary school. Another example is Desert Angel, which is a  program where Volunteers send care packages to soldiers that are serving overseas. The group also  keeps track of time during the build season to monitor build progress. This group is responsible for  making continuous improvement on the Business Plan. 
+Page 15 of 30 
+Rev 1.0 – 10.02.13RB 
+Example Sub-Team Structure Descriptions (Managerial) Continued:  
+Awards  
+The awards group is in charge of writing the Woodie Flowers award, which credits an inspirational  Mentor on the team. The awards group is also in charge of the Chairman’s award, which includes an  essay, a video, and a presentation. But there are other awards – and teams are not required to do any. 
+Animation  
+The animation group helps the team by assisting with the creation of the teams digital media. Some of  the responsibilities of the animation group include the creation of short films to promote team activities,  the team’s website, and making the Chairman’s video along with other team business.  
+Safety  
+The main goal of the safety group is to make the team as safe as possible. This includes constantly  reminding team members about always taking safety precautions when in the shop, developing a safety  plan, and placing safety-related posters in as many places as possible in the environment.  
+Scouting and Strategy  
+The scouting and strategy group is mainly in charge of the team’s data. During the team’s competitions,  this sub-team is responsible for recording every match’s data. This includes filling out the excel  spreadsheet and making match sheets for the drive team (so they can prepare for upcoming matches).  The scouting sub-team is in charge of coming up with a game winning strategy and introducing it to the  team. With this system everyone can be included before competitions and during the build season.  
+Media  
+Media manages the team’s Facebook and Twitter accounts, plans and executes the production of videos  (which is edited by the Animation Group), as well as takes photographs of the team’s activities. Its  partner, the website group, manages the website as well as brainstorming ideas for winning the Digital  Media Award, which as of the 2013 season replaces the website award.  
+Design  
+The design group develops ideas and drawings to construct the robot. These drawings are not only used  for fabrication, but are also used to show the Judges how the mechanical components of the robot  move.  
+Website  
+The website group focuses on spreading the word of our team and FIRST by showing what we  do by maintaining the website. This sub team is also in charge of keeping the website up to date  on any documents that might need to be communicated to the team.  
+– FRC Team 68, Truck Town Thunder
+Page 16 of 30 
+Rev 1.0 – 10.02.13RB 
+Example Sub-Team Structure Breakdown Diagram (Technical):  
+
+Example Sub-Team Structure Descriptions (Technical):  
+Chassis 
+The chassis group designs the frame and transmissions of the robot. Their main accomplishment this year  is the Thunder Box, which is a custom-made transmission. Members of the chassis group are trained to use  the lathe, mill parts, and weld, as well as be able to use all shop tools. Many chassis members can also use  CAD software.  
+Manipulator (1, 2, and 3)  
+The manipulator groups are designated to make as many mechanical attachments that are required for  the robot that will accomplish a specific subtask. This sub task varies from year to year and can range from  the construction of the whole robot. Members will use metalworking and design skills to develop the  specified assembly in the six weeks season. Traditionally, the team only has two manipulator groups; a  third was added due to the increasing complexity and number of tasks that needed to be accomplished in  the FIRST games. This year manipulator 1 is responsible for building the climber, manipulator 2 is  responsible for building the feeder, and manipulator 3 is responsible for building the shooter. 
+Electrical  
+Working mostly with the programmers, the electrical group orchestrates the electrical wiring of the robot  motors, actuators, and sensors. The group organizes the layout of physical objects such as the battery,  main circuit breaker, and other electrical components. The group is also responsible for the inventory and  organization of electrical components and pneumatic solenoid valves.  
+Programming  
+Programming is the group that is responsible for converting the rules of the game and the abilities of the  robot into a game-winning strategy. The group has to take human rules, strategies, and ideas and convert  them into a form that the robot can understand. Programming works with every technical group to ensure  that their requirements are implemented in the finished robot. 
+Page 17 of 30 
+Rev 1.0 – 10.02.13RB 
+Example Sub-Team Structure Descriptions (Technical) Continued:  
+Field Build (Field, Bumpers, Driver Station, Decals)  
+The Field Build, Bumpers, Driver Station, and Decals (FBBDSD) group is in charge of building the  important field components in the first few weeks of build season. This sub team also creates the robot’s  control panel and driver’s station. When nearing the end of build season, they then build the bumpers of  the robot and the decals for the team trailer.  
+– FRC 68, Truck Town Thunder
+Page 18 of 30 
+Rev 1.0 – 10.02.13RB 
+STRATEGIC PLANNING PROCESS / SWOT ANALYSIS 
+As a FIRST team, it is important to identify the areas a team has successfully developed and what areas need  work. Reviewing the Strengths, Weaknesses, Opportunities, and Threats in a SWOT Analysis is the first step to  knowing what type of sponsorships or fundraising a team has to do. Once a team analyzes their situation, they  can build on their strengths, correct weaknesses, pursue opportunities, and avoid threats. 
+Example SWOT Analysis:  
+“The SWOT Analysis was used to evaluable the Strengths, Weaknesses, Opportunities, and Threats to FIRST  Team 68 Truck Town Thunder’s organization. The strengths and weaknesses refer to internal factors of the  team. The opportunities and threats refer to external factors the team may encounter.”  
+–FRC Team 68, Truck Town Thunder
+Page 19 of 30 
+Rev 1.0 – 10.02.13RB 
+TEAM IMPACT/OUTREACH 
+The Team Impact/Outreach section of the Business Plan focuses on how a team has impacted or helped the  local, state, national, or international community. STEM outreach is a key component in FIRST culture and is part  of a FIRST teams’ identity. In addition to explaining outreach the team has done, it would be appropriate to  include documentation and graphs on how many people the team is affecting or what careers former students  have pursued.  
+Example Team Impact: 
+“…Even though ROULT 2012 had made huge advances, the 2013 generation decided to push the stakes  higher and devote itself in a full-fledged stand for supporting its community according to the founding  vision of FIRST. Since the new team’s recruitment program finished, multiple events and projects have  been made to link the team to its community, near and far. The team members consider themselves lucky  to have the opportunity, which has been offered to them, and they consider it pertinent to be humble and  want to give the wealth of knowledge and energy they possess back to the community. 
+The new team and the old team decided to use the robot designed for the Rebound Rumble Challenge  which participated in the 2012 FRC competition to show it to children from a nearby kindergarten. The  children were amazed when they saw the robot. They were also given a succinct presentation detailing in  very simple terms the functions and different types of robots, using examples from popular media to which  they were familiar. The children were thrilled and involved in the presentation; afterwards the robot threw  several shots at the basket while the children cheered. At the end of the day they had a short meal, and  the 2012 and 2013 teams discussed the difficulties which arose during the 2012 competition….” 
+– FRC Team 4403, ROULT
+Page 20 of 30 
+Rev 1.0 – 10.02.13RB 
+FUTURE PLANS 
+The Future Plans section helps define and identify general goals that the team wishes to achieve over a period of  time. Team goals can be prioritized in order of importance or they can be divided into short-term goals (less  than a year) or long-term goals (over a year). Long-term team goals can develop into a three, five, or ten year  plan that reflects changes in what the team wants to achieve.  
+Below is an example of a two-year plan from FRC Team 781.  
+Example Long Term Goals (Two-Year Plan): 
+Team 781 sets high standards for everything we do. In order for continuous progress to happen, these  standards must also be set when it comes to making goals. Our current goals are as follows:  ∙ Become a team that is resourceful and helpful to the FIRST community. 
+∙ Become one of the leaders in Canada for all aspects of FIRST. 
+∙ To have noticeable presence in our community giving back to those who support us. ∙ Promoting STEM to youth in our area. 
+∙ To be good ambassadors for the values of FIRST. 
+∙ Continue to recruit and train new members to make up for the students that graduate high school. We plan to achieve these goals by continuously improving on and using the strategies outlined in this  Business Plan.  
+– FRC Team 781, Kinetic Knights
+Page 21 of 30 
+Rev 1.0 – 10.02.13RB 
+ACTION/IMPLEMENTATION PLAN 
+The action or implementation section of the Business Plan takes the team goals and creates milestones that the  team can aim for in order to clearly show the steps they have to take to reach their short-term and long-term  goals. Information about how the goal will be accomplished, who is responsible for the goal, and when the goal  should be completed should be included.  
+Example Action/Implementation Plan:  
+Strategy 
+	Actions 
+	Group Responsible 
+	Planned Completion
+	Provide for the easy  
+transition of year 12  
+members to Mentors
+	Develop and implement a  “junior Mentor” program  in the team structure
+	Executive 
+	July 2012
+	Mentor potential team  
+members for sub-team leads  to ensure adequate  
+succession planning
+	Identify and mentor  
+potential leaders within  sub-teams
+	Student Leadership  Council, Sub-Team  Leads
+	July 2012
+	Formalize recruitment and  extend induction framework  for new/prospective team  members
+	Formalize recruitment  strategies
+	Business Sub-Team 
+	July 2012
+	Work to educate and inspire  Australia’s most  
+disadvantaged and isolated  into FIRST and STEM fields
+	Assist and establish an  all-girls FLL Team through  the LEAP program
+	Team 3132 
+	August 2012
+	Increase collaboration and  connectivity between the  FIRST Community
+	FIRST Date to go live 
+	Software Sub-Team 
+	June 2012
+	
+
+
+
+– FRC Team 3132, Thunder Down Under
+Page 22 of 30 
+Rev 1.0 – 10.02.13RB 
+TEAM BUDGET 
+Team Income & Expenditure:  
+Team income contains line items of monetary or in-kind donations a team receives or fundraises, while Team  expenditure contains the line items of the costs a team incurs throughout a year. Teams should include the costs  associated with team outreach events in their expenditure costs to tie in the impact of the team to the team  budget.  
+Example Format to Create a Team Budget:  
+Example Format to Create a Team Budget:  
+8 Cost 
+Income Cost 
+Sponsors $000.00 
+Sponsors $000.00 
+Team Camps $000.00 
+Team Camps $000.00 
+Concessions for FTC Qualifier $000.00 
+Concessions for FTC Qualifier $000.00 
+Other Fundraising $000.00 
+Other Fundraising $000.00 
+Student Fees $000.00 
+Student Fees $000.00 
+Total: $000.00 
+Total: $000.00 
+Expenditure: Cost 
+Expenditure: Cost 
+FIRST Registration $000.00 
+FIRST Registration $000.00 
+FLL Team Kits $000.00 
+FLL Team Kits $000.00 
+Field Pieces $000.00 
+Field Pieces $000.00 
+Robot Expenses $000.00 
+Robot Expenses $000.00 
+Second Regional $000.00 
+Second Regional $000.00 
+Travel Costs $000.00 
+Travel Costs $000.00 
+Off-Season Event Registration $000.00 
+Off-Season Event Registration $000.00 
+Total: $00,000.00
+Total: $00,000.00 
+Page 23 of 30 
+Rev 1.0 – 10.02.13RB 
+Additional Opportunities for Support: In-Kind Donations 
+There are many costs associated with running a FIRST team. Listing specific items a team needs can help develop  a list of potential Sponsors a team should cultivate. The list can be included in a Sponsor packet to highlight  additional team needs beyond monetary donations. 
+Example Information to include in a list of Needed In-kind Donations: 
+Items: Number Needed Single-Item Cost Final Cost FLL Lego Kits for Middle Schools 4 $500 $2,000.00 Team Trailer 1 $3,000 $3,000.00 Bus to Travel to Events 1 $2,000 $2,000.00 Robot Material Cost 2 $4,000 $8,000.00 Large Rolling Tool Box 1 $1,000 $1,000.00 Pit Banners & Sponsor Banners 1 $1,000 $1,000.00 2014 Field Pieces 1 $1,500 $1,500.00 Saturday Build Season Food 6 $200 $1,200.00 Total: $19,700.00
+Page 24 of 30 
+Rev 1.0 – 10.02.13RB 
+Additional Opportunities for Support: Mentors 
+In addition to in-kind materials a team needs (such as tools, training materials, and kits) teams should identify  areas where they could use Mentor support or training. Looking at a list of Mentor roles could encourage a  Sponsor to get involved with the team as a Mentor or take a day to help train the team in a specific area.  
+Example of Mentor Roles:
+Mentor Roles 
+	Role Description
+	CAD 
+	Teach students on the team how to CAD
+	Marketing 
+	Assist with team marketing and creating a team business plan
+	Travel Logistics 
+	Organize the team travel to regional events outside of the local area
+	Prototyping 
+	Assist with the design of the robot and teach the students how to create basic  prototypes
+	Writing 
+	Assist the Marketing and Award Sub-Teams with team award submissions 
+	Electrical 
+	Show students how to wire, organize an electrical board, and update and check  the robot
+	Finance 
+	Help students manage team funds and assist with fundraising 
+	Programming 
+	Work with the students to program the robot for competition
+	Graphic Design 
+	Create banners, logos, team handouts, and T-shirts for competitions
+	Public Speaking 
+	Teach the students how to speak in front of potential Sponsors and Judges 
+	Engineering Design 
+	Work with the team to pick a strategy, design a robot, and manage robot  creation
+	Mechanical 
+	Help the students build a robot for competition in March
+	Social Media 
+	Work with students to set up and manage social media sites
+	Website 
+	Teach students how to build and manage a website
+	Project  
+Management
+	Work with students to set time and performance goals to meet deadlines, etc.
+	
+
+
+
+Page 25 of 30 
+Rev 1.0 – 10.02.13RB 
+SPONSOR BENEFITS 
+Identify the different levels of sponsorship the team recognizes and the benefits of each level of sponsorship.  This information can be included in the packet of information brought to a Sponsor presentation.  
+Example Sponsor Benefits: 
+Degrees of Sponsorship: 
+Title Sponsor- $15,000 +  
+∙ Tournaments: Your company acknowledged during competition Alliance selections nationally televised and  paid travel to one chosen tournament  
+∙ School Display Case: Logo displayed in showcase 
+∙ Robot: Large logo of business  
+∙ Team T-shirt: Large logo of business  
+∙ Banner: Large logo on own private panel (displayed at events & tournaments)  
+∙ Website: Banner & link on sponsorship page & logo on the front page 
+Platinum Sponsor - $5,000 -$14,999 
+∙ School Display Case: Logo displayed in showcase 
+∙ Robot: Small logo of business  
+∙ Team T-shirt: Medium-sized logo of business  
+∙ Banner: Large logo on banner (displayed at events & tournaments)  
+∙ Website: Banner & link to sponsor’s website on sponsorship page 
+Gold Sponsor - $1,000 -$4,999 
+∙ Team T-shirt: Name of individual/business in large font  
+∙ Banner: Small logo on banner (displayed at events & tournaments)  
+∙ Website: Picture & link to Sponsor’s website on sponsorship page 
+Gold Sponsor - $500 -$999 
+∙ Team T-shirt: Name of individual/business in medium font  
+∙ Banner: Large name on banner (displayed at events & tournaments)  
+∙ Website: Picture & link to Sponsor’s website on sponsorship page 
+Silver Sponsor - $100 -$499 
+∙ Team T-shirt: Name of individual/business in small font  
+∙ Banner: Small name on banner (displayed at events & tournaments)  
+∙ Website: Name of individual/business on sponsorship page 
+Bronze Sponsor - $25-$99 
+∙ Website: Name of individual/business on sponsorship page 
+Available to Sponsors of $100+ 
+Members of the team will give a complimentary presentation to a small or large group of people providing  more information and an optional interactive demonstration with a robot.  
+– FRC 781, Kinetic Knights
+Page 26 of 30 
+Rev 1.0 – 10.02.13RB 
+TEAM FUNDRAISING OPPORTUNITIES 
+The Team Fundraising section of the Business Plan explains annual team fundraisers and highlights any future  fundraisers the team will be pursuing. Information such as the cost of materials, the number of people needed  to run the fundraiser, and the net income should be included for each fundraiser.  
+Current Team Fundraisers:  
+Example Current Team Fundraisers: 
+Rogelio Ramos Comedy Show 
+
+On November 14th, 2012, the team organized a comedy show featuring a local Torreon comedian,  Rogelio Ramos. The team contacted the comedian, who offered a low price for his services in view of the  team’s purpose. The team set up the show in the school’s auditorium. Tickets were sold weeks before  the event took place, and the team was responsible for planning of all of the details involving the event.  Chips, coffee, cake and soda were sold during the show. In order to communicate the purpose of the  show to the audience, a short video demonstrating ROULT’s progress was shown at the start of the  show. At the end of the show, a plasma T.V. was awarded to a member of the audience selected at  random by a draw. After seeing the hard work done by the team, Rogelio promised he would put on a  show next year free of charge for the benefit of ROULT. Almost 500 people attended to the show. 
+– FRC 4403, ROULT Robotics
+Page 27 of 30 
+Rev 1.0 – 10.02.13RB 
+Future Team Fundraisers:  
+Take a look at a few of the unique fundraisers FIRST teams have put on in Section 8 of the FIRST Fundraising  Toolkit (Note: Future Link TBD). Create a list of 5-7 potential fundraising events and activities the team could  put on to include in this section of future fundraising events. Teams should keep in mind the outreach events  the team takes part in and how these events could develop into a team fundraiser.  
+Reference the Strengths and Opportunities sections of the team SWOT analysis to determine the best  fundraisers the team should start with and organize them in order of easiest fundraisers to more challenging  fundraisers for the team.  
+Suggested Information to Include About Current/Future Fundraisers:  
+Name of Fundraiser:  
+Short Description (3-5 sentences):  
+How the team advertised the event:  
+Materials Needed (Identify any materials the team is able to have donated):  
+Total Money Collected:  
+Total Team Cost for Fundraiser:  
+Fundraiser Net Income:  
+Number of Students & Mentors/Parents needed to run the Fundraiser:  
+(Picture) 
+Note: In terms of future fundraisers, use estimated numbers to determine the money raised, cost of the  fundraiser, and net income. 
+Page 28 of 30 
+Rev 1.0 – 10.02.13RB 
+WHY IS YOUR TEAM UNIQUE? 
+Include a one-sentence answer to wrap up the document. Consider how the team could give back to a Sponsor  who may be viewing this information; i.e., bringing FIRST culture to the Company, helping with the Company’s community awareness, etc...)
+Page 29 of 30 
+Rev 1.0 – 10.02.13RB 
+TEAM CONTACT INFORMATION 
+Website:  
+Team Email:  
+Facebook:  
+Twitter:  
+Other Social Media Sites:  
+Main Contacts:  
+Mentor Name:  
+Title:  
+Email:  
+Phone:  
+Team Meeting Information:  
+Location: 
+Dates: 
+Times: 
+Sponsorship Information:  
+Checks should be made payable to: (Correct Team Name)  
+Donations may be tax deductible; please contact the team for more information.  
+(Note: Teams should clearly identify how checks have to be addressed so the money goes directly to the team  funds. Teams should also know which donations are tax deductible and what information is needed to process  the information properly.)  
+Mailing Address:  
+(Name Checks should be made payable to) 
+Attn: (Correct Team Information) 
+(Address) 
+(City), (State) (Zip Code)
+Page 30 of 30 
+Rev 1.0 – 10.02.13RB
